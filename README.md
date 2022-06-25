@@ -1,10 +1,10 @@
-# T6i-Glass-Theme (1.1.0 - Latest)
+# T6i-Glass-Theme (1.1.1 - Latest)
 
 ![preview](https://theiceji.com/t6iAssets/discord/glassUI/screenshot/full-01.png)
 
 ## Note!
 
-* Now, It's support only English language (Discord's language). If you use other languages please go to Settings > languages > English
+* Now, It's support only English and Thai (Discord's language). If you use other languages please go to Settings > languages > English.
 * This theme use font-family 'Poppins' for EN, and use 'Prompt' for TH (locale language). You can change font-family in config file.
 * Default font-family not contains in this theme, you need to download manually (if you not plan to use new font).
 * You not need to update theme.css file because it will update automatically in Real-time (theme.css contains only theme configuration).
