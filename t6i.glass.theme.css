@@ -1,7 +1,7 @@
 /**
  * @name T6i UI Glass
  * @author TheIceJi#7301
- * @version 1.0.0
+ * @version 1.0.1
  * @description T6i UI | Glassmorphism.
  * @source https://github.com/Jirayu-ninl/T6i-Discord-Theme
  * @updateUrl https://github.com/Jirayu-ninl/T6i-Discord-Theme/blob/master/t6i.glass.theme.css
@@ -32,8 +32,6 @@
 @import 'https://theiceji.com/t6iAssets/discord/glassUI/master.css';
 
 
-
-
 /* ** Customize Here ***/
 
 :root {
@@ -42,6 +40,8 @@
   --theme-bg-url: url('https://theiceji.com/t6iAssets/discord/glassUI/wallpaper/default.jpg');
   --theme-hue: 250;
   --status-custom-color: rgb(255, 211, 1);
+  --font-en: 'poppins';
+  --font-locale: 'prompt';
 
   /**? Customize Colors ***/
 
