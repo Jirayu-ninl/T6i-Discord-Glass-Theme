@@ -1,0 +1,20 @@
+{
+  "name": "T6i UI Glass",
+  "description": "T6i UI | Glassmorphism.",
+  "version": "1.0.0",
+  "author": "TheIceJi#7301",
+  "license": "MIT",
+  "theme": "t6i.glass.theme.css",
+  "consent": "true",
+  "preview": [
+    "https://theiceji.com/t6iAssets/discord/glassUI/screenshot/full-01.png",
+    "https://theiceji.com/t6iAssets/discord/glassUI/screenshot/full-02.png",
+    "https://theiceji.com/t6iAssets/discord/glassUI/screenshot/full-03.png",
+    "https://theiceji.com/t6iAssets/discord/glassUI/screenshot/full-04.png",
+    "https://theiceji.com/t6iAssets/discord/glassUI/screenshot/full-05.png",
+    "https://theiceji.com/t6iAssets/discord/glassUI/screenshot/full-06.png",
+    "https://theiceji.com/t6iAssets/discord/glassUI/screenshot/full-07.png"
+  ],
+  "discord": "pZ4Rz6BQx2",
+  "website": "https://theiceji.com/"
+}

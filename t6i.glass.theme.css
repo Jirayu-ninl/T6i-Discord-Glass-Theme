@@ -1,0 +1,100 @@
+/**
+ * @name T6i UI Glass
+ * @author TheIceJi#7301
+ * @version 1.0.0
+ * @description T6i UI | Glassmorphism.
+ * @source https://github.com/Jirayu-ninl/T6i-Discord-Theme
+ * @updateUrl https://github.com/Jirayu-ninl/T6i-Discord-Theme/blob/master/t6i.glass.theme.css
+ * @authorId 
+ * @invite pZ4Rz6BQx2
+ * @donate 
+ * @website https://theiceji.com/
+*/
+
+/* -----------------------------------------------------------------
+
+
+        ███████████  ████████   ███     █████  █████ █████
+       ░█░░░███░░░█ ███░░░░███ ░░░     ░░███  ░░███ ░░███ 
+       ░   ░███  ░ ░███   ░░░  ████     ░███   ░███  ░███ 
+           ░███    ░█████████ ░░███     ░███   ░███  ░███ 
+           ░███    ░███░░░░███ ░███     ░███   ░███  ░███ 
+           ░███    ░███   ░███ ░███     ░███   ░███  ░███ 
+           █████   ░░████████  █████    ░░████████   █████
+          ░░░░░     ░░░░░░░░  ░░░░░      ░░░░░░░░   ░░░░░ 
+
+                           By TheIceJi#7301
+
+   -------------------------------------------------------------- */
+
+/* **! DON'T TOUCH! ***/
+
+@import 'https://theiceji.com/t6iAssets/discord/glassUI/master.css';
+
+
+
+
+/* ** Customize Here ***/
+
+:root {
+  /**? Main Theme ***/
+
+  --theme-bg-url: url('https://raw.githubusercontent.com/Jirayu-ninl/T6i-Discord-Theme/master/wallpaper/default.jpg');
+  --theme-hue: 250;
+  --status-custom-color: rgb(255, 211, 1);
+
+  /**? Customize Colors ***/
+
+  --bd-color: var(--brand-experiment-560);
+  --bd-color-hover: var(--brand-experiment-560);
+  --playing-color: var(--brand-experiment-560);
+  --spotify-color: var(--brand-experiment-560);
+  --streaming-color: var(--brand-experiment-560);
+  --header-primary: #ffffff;
+  --header-secondary: #c7c7c7;
+  --channels-headings: var(--brand-experiment-560);
+  --text-normal: #f0f0f0;
+  --text-muted: #b3b3b3;
+  --text-link: var(--brand-experiment-360);
+  --channels-default: #dddddd;
+  --interactive-normal: #f0f0f0;
+  --interactive-hover: #f0f0f0;
+  --interactive-hover-icons: var(--background-accent2);
+  --interactive-active: #fefeff;
+  --interactive-active-icons: var(--background-accent2);
+  --interactive-muted: #585858;
+  --background-primary: var(--brand-experiment-860);
+  --background-primary-alt: var(--brand-experiment-830);
+  --background-secondary: #191919;
+  --background-secondary-alt: #191919;
+  --background-tertiary: #0f0f0f;
+  --background-accent: var(--brand-experiment-560);
+  --background-floating: #161616;
+  --background-mentioned: var(--brand-experiment-20a);
+  --background-mentioned-hover: var(--brand-experiment-30a);
+  --info-warning-foreground: #bdbdbdc5;
+  --background-help-warning: rgba(250, 166, 26, 0.1);
+  --background-help-info: rgba(0, 176, 244, 0.1);
+  --background-modifier-hover: var(--brand-experiment-30a);
+  --background-modifier-active: var(--brand-experiment-80a);
+  --background-modifier-selected: var(--brand-experiment-50a);
+  --background-modifier-accent: var(--brand-experiment-40a);
+  --elevation-stroke: 0 0 0 1px rgba(4, 4, 5, 0.15);
+  --elevation-low: 0 1px 0 rgba(18, 20, 36, 0.767),
+    0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
+  --elevation-medium: 0 4px 4px rgba(0, 0, 0, 0.16);
+  --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
+  --scrollbar-thin-thumb: var(--brand-experiment-560);
+  --scrollbar-thin-track: var(--brand-experiment-860);
+  --scrollbar-auto-thumb: var(--brand-experiment-560);
+  --scrollbar-auto-track: var(--brand-experiment-860);
+  --scrollbar-auto-scrollbar-color-thumb: var(--brand-experiment-560);
+  --scrollbar-auto-scrollbar-color-track: var(--brand-experiment-860);
+  --radio-group-dot-foreground: var(--theme-hue);
+  --button-primary-background: var(--brand-experiment-560);
+  --button-primary-background-disabled: var(--brand-experiment-760);
+  --button-primary-background-hover: var(--brand-experiment-500);
+  --button-secondary-background: var(--brand-experiment-560);
+  --button-secondary-background-disabled: var(--brand-experiment-760);
+  --button-secondary-background-hover: var(--brand-experiment-500);
+}
